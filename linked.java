@@ -58,7 +58,7 @@ public class SinglyLinkedList {
 
             tail.next = newNode;    
 
-            //newNode will become new tail of the list    
+            //newNode will become new tail of the SLL
 
             tail = newNode;    
 
