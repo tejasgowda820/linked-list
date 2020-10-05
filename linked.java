@@ -44,7 +44,7 @@ public class SinglyLinkedList {
 
         if(head == null) {    
 
-            //If list is empty, both head and tail will point to new node    
+            //If SLL is empty, both head and tail will point to new node    
 
             head = newNode;    
 
