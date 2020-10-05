@@ -68,7 +68,7 @@ public class SinglyLinkedList {
 
         
 
-    //display() will display all the nodes present in the list    
+    //display() will display all the nodes present in the SLL   
 
     public void display() {    
 
