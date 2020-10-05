@@ -40,7 +40,7 @@ public class SinglyLinkedList {
 
             
 
-        //Checks if the list is empty    
+        //Checks if the SLL is empty    
 
         if(head == null) {    
 
