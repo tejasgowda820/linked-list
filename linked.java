@@ -80,13 +80,13 @@ public class SinglyLinkedList {
 
         if(head == null) {    
 
-            System.out.println("List is empty");    
+            System.out.println("List is empty!");    
 
             return;    
 
         }    
 
-        System.out.println("Nodes of SLL: ");    
+        System.out.println("Nodes of SLL=");    
 
         while(current != null) {    
 
