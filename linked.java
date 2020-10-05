@@ -86,7 +86,7 @@ public class SinglyLinkedList {
 
         }    
 
-        System.out.println("Nodes of singly linked list: ");    
+        System.out.println("Nodes of SLL: ");    
 
         while(current != null) {    
 
